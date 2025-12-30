@@ -1,0 +1,24 @@
+{
+    "products" : [
+        {
+            "id" : 1,    
+            "name" : "Unstiched Black Lawn",
+            "price" : 15000
+        },
+        {
+            "id" : 2,
+            "name" : "Embroided Lawn",
+            "price" : 15000
+        },
+        {
+            "id" : 3,
+            "name" : "Golden Bridal Dress",
+            "price" : 200000
+        },
+        {
+            "id" : 4,
+            "name" : "Luxury Lawn",
+            "price" : 20000
+        }
+    ]
+}
